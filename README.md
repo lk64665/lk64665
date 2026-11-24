@@ -22,3 +22,9 @@ Hi, I'm Lakshay Bansal! I am an 18-year-old engineering student currently naviga
 [![](https://komarev.com/ghpvc/?username=lk64665&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Featured projects
+
+- [Cloud Printing](https://github.com/lk64665/cloud-printing) — QR-based document transfer and Windows printing receiver.
+- [Aura](https://github.com/lk64665/aura) — application with a microservices-based setup.
+- [ZipTap](https://github.com/lk64665/ziptap) — Expo-based mobile application prototype.
