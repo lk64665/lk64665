@@ -21,23 +21,21 @@ A React Native / Expo scan-and-pay shopping prototype with cart, checkout, order
 
 **Also building:** [Aura Platform](https://github.com/lk64665/aura) — a separate project exploring services for AI assistance, credit scoring, and GST invoice reconciliation.
 
-## Skills
+## 💻 Tech Stack
 
-- **Languages:** C++, JavaScript, TypeScript, Python, C#
-- **Web and mobile:** React, React Native, Expo, HTML, CSS, Firebase
-- **Desktop and tools:** WPF, Docker, Git, Postman, Vercel
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## LeetCode and problem solving
 
 I practice data structures and algorithms in C++. My solution repository is private.
 
-[View my LeetCode profile](https://leetcode.com/u/Lakshay_bansal087/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Lakshay__bansal087-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Lakshay_bansal087/)
 
 [![Lakshay's LeetCode statistics](https://leetcard.jacoblin.cool/Lakshay_bansal087?theme=dark&font=Inter)](https://leetcode.com/u/Lakshay_bansal087/)
 
-## Contact
+## 🌐 Socials
 
-[LinkedIn](https://www.linkedin.com/in/lakshaybansal087) · [Email](mailto:contactlakshaybansal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaybansal087) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactlakshaybansal@gmail.com)
 
 ## GitHub activity
 
