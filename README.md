@@ -1,6 +1,6 @@
 # Hi, I'm Lakshay Bansal
 
-Engineering student at Giani Zail Singh College, building web, mobile, and Windows applications. I'm currently strengthening my C++ data structures and algorithms skills and exploring AI-assisted applications.
+Engineering student, building web, mobile, and Windows applications. I'm currently strengthening my C++ data structures and algorithms skills and exploring AI-assisted applications.
 
 ## Featured projects
 
